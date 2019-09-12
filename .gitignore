@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
