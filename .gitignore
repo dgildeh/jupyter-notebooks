@@ -9,4 +9,5 @@ __pycache__
 
 # Data files
 Data/*.zip
+Data/dataset/
 temp/
